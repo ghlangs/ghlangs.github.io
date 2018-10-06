@@ -1,6 +1,6 @@
 # Welcome to _ghlangs_!
 
 ## Choose a language
-### [Spanish](pages/spanish.md)
+### [Spanish](http://ghlangs.github.io/pages/spanish.md)
 
-### [Russian](pages/russian.md)
+### [Russian](http://ghlangs.github.io/pages/russian.md)
