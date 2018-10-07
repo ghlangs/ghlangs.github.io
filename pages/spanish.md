@@ -2,8 +2,8 @@
 
 ## Content
 
-### 1. Time tenses
-###   1. Past
-###   2. Present
-###     1. Presente Indicativo
-###   3. Future
+1. Времена
+    1. Прошедшее
+    2. Настоящее
+        1. Presente indicativo
+    3. Будущее
