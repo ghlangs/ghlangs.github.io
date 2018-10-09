@@ -1,3 +1,3 @@
 ## Choose a language
-### [Spanish](http://ghlangs.github.io/spanish)
-### [Russian](http://ghlangs.github.io/russian)
+### [Spanish](http://ghlangs.github.io/spanish/index)
+### [Russian](http://ghlangs.github.io/russian/index)
