@@ -1,4 +1,4 @@
-# Pretérito perfecto compuesto de Indicativo
+## Pretérito perfecto
 
 P. |  | compr**ar** | com**er** | ven**ir**
 ---|--|-------------|-----------|----------

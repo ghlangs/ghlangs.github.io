@@ -1,4 +1,4 @@
-# Presente Indicativo
+## Presente Indicativo
 
 P. | compr**ar** | com**er** | viv**ir**
 ------|---------|-------|------
@@ -8,4 +8,3 @@ tú | compr**as** | com**es** | viv**es**
 nosotros (as) | compr**amos** | com**emos** | viv**imos**
 vosotros (as) | compr**áis** | com**éis** | viv**ís**
 ellos (as), ustedes | compr**an** | com**en** | viv**en**
-

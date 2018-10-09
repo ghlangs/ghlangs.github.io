@@ -1,4 +1,4 @@
-# Futuro simple de Indicativo
+## Futuro simple
 
 P. | compr**ar**
 ------|---------
