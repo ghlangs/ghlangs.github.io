@@ -1,0 +1,5 @@
+# Времена в испанском (по наклонениям)
+1. [Изъявительное](http://ghlangs.github.io/spanish/izyav/index)
+2. [Повелительное](http://ghlangs.github.io/spanish/povel/index)
+3. [Сослагательное](http://ghlangs.github.io/spanish/sosla/index)
+4. [Условное](http://ghlangs.github.io/spanish/uslov/index)
